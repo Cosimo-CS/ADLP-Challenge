@@ -58,9 +58,11 @@ This report documents the steps taken and techniques used to discover seven out 
 
 **Method Used:** Examination of descriptive texts and metadata.
 
-**Description:** This flag was found within the descriptive text or metadata associated with the domain. By examining the content on the main page and meta tags in the HTML source, the flag was located.
+**Description:** This flag was found within the descriptive text or metadata associated with the domain via DNSDumpster. By using DNSDumpster the flag came out in the report.
 
 **Flag:** `QkN7REVTQ1JJUFRJVkUtRE9NQUlOLVRYVH0=`
+
+![alt-text](img/dnsdumpster.png)
 
 ## Conclusion
 
